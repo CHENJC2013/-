@@ -1,3 +1,6 @@
+https://book.flutterchina.club/chapter1/dart.html
+
+
 ###1、 flutter: command not found
 export PATH="/Users/chenjc/flutter/bin":$PATH
 2、flutter pub get 时卡住：Running "flutter pub get" in xxx...
